@@ -1,2 +1,0 @@
-# SCW
-Software Carpentry Workshop
